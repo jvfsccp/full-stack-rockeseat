@@ -74,7 +74,7 @@ let joined = separate.join("-")
 console.log(joined)
 */
 
-
+/*
 // Obtém a posição da palavra.
 console.log(message.indexOf("JavaScript"))
 // Quando não encontra retorna-1
@@ -86,3 +86,4 @@ console.log(message.includes("JavaScript"))
 
 console.log(message.includes("HTML"))
 console.log(message.includes("estudando os fundamentos"))
+*/
