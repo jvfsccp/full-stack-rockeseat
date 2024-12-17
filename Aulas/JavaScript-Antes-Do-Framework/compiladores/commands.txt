@@ -1,0 +1,2 @@
+comando para o script de build do babel no JSON: "build": "babel ./compiladores/main.js --out-dir ./dist"
+comando para o script de dev do babel no JSON: "dev": "babel ./compiladores/main.js --watch --out-dir ./dist"
